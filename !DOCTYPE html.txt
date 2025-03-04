@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Suivez-nous sur LinkedIn</title>
+</head>
+<body>
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+  <script type="IN/FollowCompany" data-id="7076262" data-counter="bottom"></script>
+</body>
+</html>
